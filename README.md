@@ -36,8 +36,8 @@ The project involved converting data from PDF to Excel, cleaning the data, remov
 
 The analysis provided several insights, including the monthly distribution of incidents, hotspot locations, incidents on weekdays vs. weekends, incidents by hours, and more.
 
-<img src="Tool Output/ToolP1.png" alt="Coding" height = "600" width="800">
-<img src="Tool Output/ToolP2.png" alt="Coding" height = "600" width="800">
+<img src="Tool Output/ToolP1.png" alt="Tool">
+<img src="Tool Output/ToolP2.png" alt="Tool">
 
 
 ## Future Scope
