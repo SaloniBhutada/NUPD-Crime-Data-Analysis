@@ -10,7 +10,7 @@ This repository contains the code, data, and documentation for the Northeastern 
 - [Problem Statement](#problem-statement)
 - [Data Description](#data-description)
 - [Design Process & Methodology](#design-process--methodology)
-- [Insights](#insights)
+- [Tool Overview](#tool-overview)
 - [Future Scope](#future-scope)
 - [References](#references)
 
@@ -32,12 +32,12 @@ The dataset includes fields such as Incident Number, Date Reported, Incident Typ
 
 The project involved converting data from PDF to Excel, cleaning the data, removing null values and outliers, and altering time and date formats. Python packages and libraries like pandas, numpy, seaborn, and matplotlib were used for data analysis and visualization.
 
-## Insights
+## Tool Overview
 
 The analysis provided several insights, including the monthly distribution of incidents, hotspot locations, incidents on weekdays vs. weekends, incidents by hours, and more.
 
-<img src="Tool Output/ToolP1.png" alt="Coding" width="400">
-<img src="Tool Output/ToolP2.png" alt="Coding" width="400">
+<img src="Tool Output/ToolP1.png" alt="Coding" height = "600" width="800">
+<img src="Tool Output/ToolP2.png" alt="Coding" height = "600" width="800">
 
 
 ## Future Scope
