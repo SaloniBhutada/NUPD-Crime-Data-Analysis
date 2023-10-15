@@ -36,6 +36,10 @@ The project involved converting data from PDF to Excel, cleaning the data, remov
 
 The analysis provided several insights, including the monthly distribution of incidents, hotspot locations, incidents on weekdays vs. weekends, incidents by hours, and more.
 
+<img src="Tool Output/programming.gif" alt="Coding" width="400">
+<img src="Tool Output/programming.gif" alt="Coding" width="400">
+
+
 ## Future Scope
 
 The project identifies areas for improvement and future development, including standardizing event categories, refining location data, and adding fields like Severity Score.
